@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am __chuangli__!
+* About me: [My Resume](chuangli1.github.io)
+* Master [SJTU-DM/NE](http://dmne.sjtu.edu.cn/) and Bachelor [SJTU-BME](http://bme.sjtu.edu.cn/)
+* Web things: 🌱 Node.js | :eyes: Vue.js | :construction_worker: Flask
+* projects: :baby: AutoCell | :yum: AutoWorm 
